@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "http://www.mameui.info/MAMEUI.7z",
+            "url": "http://www.mameui.info/MAMEUI248.7z",
             "extract_dir": "MAMEUI",
             "bin": "mameui.exe",
             "shortcuts": [
